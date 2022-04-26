@@ -14,4 +14,6 @@ public interface UserMapper {
     用户登录
      */
     public User login(User user);
+    
+     public User login2(User user);
 }
